@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.0",
-    "engineVersion":  "153.0.4234.32",
-    "installerUrl":  "https://github.com/kyrby/MDViewer-releases/releases/download/v1.1.0/MDViewer-Setup.exe",
-    "sha256":  "d13e476e1e0fb1fcb3f9703e2de5ef63fefb6babdc98de5547dd2b13653949d9",
-    "size":  277082521,
-    "releaseNotesUrl":  "https://github.com/kyrby/MDViewer-releases/releases/tag/v1.1.0",
-    "published":  "2026-09-25"
+  "version": "1.2.0",
+  "engineVersion": "154.0.4258.48",
+  "installerUrl": "https://github.com/kyrby/MDViewer-releases/releases/download/v1.2.0/MDViewer-Setup.exe",
+  "sha256": "df4eef8ab790149ed0e9013ba46fb65ac8563bc3d3c8cf35128cc36408c1d44e",
+  "size": 244294723,
+  "releaseNotesUrl": "https://github.com/kyrby/MDViewer-releases/releases/tag/v1.2.0",
+  "published": "2026-10-01"
 }
